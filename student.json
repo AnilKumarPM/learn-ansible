@@ -1,0 +1,31 @@
+{
+
+    "firstName": "AnilKumar",
+    "lastName": "PM",
+    "addresses": [
+                    {
+                        "type": "permanent",
+                        "doorNo": "2-23",
+                        "streetname": "Govt Hospital",
+                        "city": "Chittoor"
+                    },
+
+                    {
+                        "type": "temporary",
+                        "doorNo": "2-23",
+                        "streetname": "Govt Hospital",
+                        "city": "Chittoor"
+                    }
+    ],
+
+    "Skills": {
+
+        "OS": "Linu",
+        "IDE": "VsCode",
+        "CM": "ansible" 
+    }
+
+
+
+
+}
