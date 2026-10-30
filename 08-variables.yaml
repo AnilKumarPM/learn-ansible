@@ -7,9 +7,9 @@
     private: false
 
   - name: password
-    prompt: please enter your name
+    prompt: please enter your password
     private: true
-    
+
   tasks:
   - name: print the confidential information
     debug:
