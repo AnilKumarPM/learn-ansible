@@ -1,0 +1,37 @@
+- first_name: "Anil Kumar"
+  last_name: "P M"
+  "dob": 01-01-01
+  # - is for list
+  addresses:
+  - type: permanent
+    doorno: 2-23,
+    streetname: Govt hospital,
+    city: Chittoor
+  - type: temporary
+    doorno: 2-23,
+    streetname: Govt hospital,
+    city: Chittoor
+
+  skills:
+    OS: linux
+    IDE: VsCode
+    CM: ansible
+
+- first_name: "Anil Kumar"
+  last_name: "P M"
+  "dob": 01-01-01
+  # - is for list
+  addresses:
+  - type: permanent
+    doorno: 2-23,
+    streetname: Govt hospital,
+    city: Chittoor
+  - type: temporary
+    doorno: 2-23,
+    streetname: Govt hospital,
+    city: Chittoor
+
+  skills:
+    OS: linux
+    IDE: VsCode
+    CM: ansible
