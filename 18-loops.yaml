@@ -6,9 +6,9 @@
     packages:
     - { name: 'nginx', state: 'absent'} 
     - { name: 'mysql', state: 'absent'}
-    - { name: 'git', state: 'abscent'}
+    - { name: 'git', state: 'absent'}
     - { name: 'net-tools', state: 'present'}
-    - { name: 'htop', state: 'abscent'}
+    - { name: 'htop', state: 'absent'}
   tasks:
   - name: Install packages
     package:
