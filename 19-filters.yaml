@@ -6,7 +6,7 @@
     names:
     - Anil 
     - Kumar
-    - P M 
+    - PM
   tasks:
   - name: print the name
     debug:
