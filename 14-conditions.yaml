@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    given_number=10
+    given_number: 10
 
   tasks:
   - name: is even
@@ -10,7 +10,7 @@
       msg: " given number is {{ given_number }} is even"
     when: given_number % 2 == 0 # expression
 
-    
+
   - name: is odd
     debug:
       msg: "given number is {{ given_number }} is Odd"
