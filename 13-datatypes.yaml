@@ -4,7 +4,7 @@
   vars:
     course: "AIOps with DevSecops on AWS"  # just string data type
     duration_in_hrs: 150 # number
-    is _live_sessions: true # boolean  
+    is_live_sessions: true # boolean  
     Topics: # list
     - Linux
     - Shell
