@@ -6,7 +6,7 @@
     debug:
       msg: " Hi {{ item }}" # item is reserved keyword
 
-      loop: 
+    loop: 
       - john
       - ram
       - raheem
