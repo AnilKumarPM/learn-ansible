@@ -8,7 +8,7 @@
 
   - name: print some info from facts
     debug:
-      msg: |
+      msg: |  # for single line directly mention what we want, but here we are using | pipe for getting more lines
         OS Family: {{ ansible_facts['os_family'] }}
         private_IP: {{ ansible_facts.default_ipv4.address }}
         private_IP: {{ ansible_facts['default_ipv4']['address'] }}
