@@ -8,7 +8,7 @@
     prompt: please enter course
     private: false
   vars_files:
-  # - course.yaml
+  - course.yaml
   tasks:
   - name: print course information
     vars:
